@@ -19,10 +19,9 @@
 /* Column size */ 
 
 /* TODO !!!!! DELETE this rule to be able to reuse this small library */
-[class*="col-"]{ 
-    /* display: flex; 
-    align-items: center; 
-    justify-content: center; */
+[class*="col-"]{  
+    line-height: 6rem; 
+    text-align: center; 
     height: 100px; 
     flex: 0 0 auto; 
     border: 2px solid tomato;

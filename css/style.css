@@ -3,7 +3,6 @@
 } 
 
 .special{ 
-    justify-content: center;
     text-align: center;
     height: 50%;
     margin: 25px;
@@ -13,4 +12,4 @@
     background-color: honeydew;
     height: 100%; 
     line-height: 2.5rem;
-}
+} 
